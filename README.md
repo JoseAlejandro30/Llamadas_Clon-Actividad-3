@@ -1,8 +1,35 @@
+# Llamadas Clone
 
+Clon en Flutter de la pantalla de **Llamadas**, realizado como parte del ejercicio **E03 de la Semana 3**.
 
-<img width="713" height="1600" alt="Screenshot_1787375252 1" src="https://github.com/user-attachments/assets/fc51e5f4-05d7-4df9-aeb5-cfe691201c9d" />
+## Pantalla clonada
 
-<img width="739" height="1600" alt="image 1" src="https://github.com/user-attachments/assets/75d89d3e-0b23-4e82-ad99-5e962a1e0815" />
+Pantalla principal de llamadas, recreada en Flutter buscando mantener la estructura visual, distribución de elementos, colores y componentes de la aplicación original.
 
-<img width="338" height="741" alt="image" src="https://github.com/user-attachments/assets/550abe58-a401-459a-b12b-2dcb4d251d2a" />
+## Comparación
 
+| Original                              | Clon                          |
+| ------------------------------------- | ----------------------------- |
+| ![Original](screenshots/original.png) | ![Clon](screenshots/clon.png) |
+
+### Superposición al 50% de opacidad
+
+![Comparación](screenshots/comparacion.png)
+
+## Estructura del proyecto
+
+El proyecto está desarrollado utilizando **Flutter** y contiene los archivos necesarios para ejecutar y visualizar el clon de la interfaz de llamadas.
+
+## Evidencias
+
+### Pantalla original
+
+![Original](screenshots/original.png)
+
+### Pantalla clonada
+
+![Clon](screenshots/clon.png)
+
+### Comparación
+
+![Comparación](screenshots/comparacion.png)
