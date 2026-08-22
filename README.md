@@ -1,17 +1,8 @@
-# llamadas_clon
 
-A new Flutter project.
 
-## Getting Started
+<img width="713" height="1600" alt="Screenshot_1787375252 1" src="https://github.com/user-attachments/assets/fc51e5f4-05d7-4df9-aeb5-cfe691201c9d" />
 
-This project is a starting point for a Flutter application.
+<img width="739" height="1600" alt="image 1" src="https://github.com/user-attachments/assets/75d89d3e-0b23-4e82-ad99-5e962a1e0815" />
 
-A few resources to get you started if this is your first Flutter project:
+<img width="338" height="741" alt="image" src="https://github.com/user-attachments/assets/550abe58-a401-459a-b12b-2dcb4d251d2a" />
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
