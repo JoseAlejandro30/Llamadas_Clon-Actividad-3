@@ -8,16 +8,15 @@ Pantalla principal de llamadas, recreada en Flutter buscando mantener la estruct
 
 ## Comparación
 
-| Original                              | Clon                          |
-| ------------------------------------- | ----------------------------- |
-| <img width="739" height="1600" alt="image 1" src="https://github.com/user-attachments/assets/6c2f0c06-0463-44e1-9f34-782d3f7c0615" />
-| <img width="713" height="1600" alt="Screenshot_1787375252 1" src="https://github.com/user-attachments/assets/99ec49f4-9977-4b9b-b7cb-e667bae9dfaf" />
-|
+| Original                                                                                                                          | Clon                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| <img width="350" alt="Pantalla original" src="https://github.com/user-attachments/assets/6c2f0c06-0463-44e1-9f34-782d3f7c0615" /> | <img width="350" alt="Pantalla clonada" src="https://github.com/user-attachments/assets/99ec49f4-9977-4b9b-b7cb-e667bae9dfaf" /> |
 
 ### Superposición al 50% de opacidad
 
-<img width="338" height="741" alt="image" src="https://github.com/user-attachments/assets/58269d9c-b28f-4e65-a29f-0b2011426444" />
-
+<p align="center">
+  <img width="338" height="741" alt="Comparación al 50% de opacidad" src="https://github.com/user-attachments/assets/58269d9c-b28f-4e65-a29f-0b2011426444" />
+</p>
 
 ## Estructura del proyecto
 
@@ -27,12 +26,18 @@ El proyecto está desarrollado utilizando **Flutter** y contiene los archivos ne
 
 ### Pantalla original
 
-| <img width="739" height="1600" alt="image 1" src="https://github.com/user-attachments/assets/6c2f0c06-0463-44e1-9f34-782d3f7c0615" />
+<p align="center">
+  <img width="350" alt="Pantalla original" src="https://github.com/user-attachments/assets/6c2f0c06-0463-44e1-9f34-782d3f7c0615" />
+</p>
 
 ### Pantalla clonada
 
- <img width="713" height="1600" alt="Screenshot_1787375252 1" src="https://github.com/user-attachments/assets/99ec49f4-9977-4b9b-b7cb-e667bae9dfaf" />
+<p align="center">
+  <img width="350" alt="Pantalla clonada" src="https://github.com/user-attachments/assets/99ec49f4-9977-4b9b-b7cb-e667bae9dfaf" />
+</p>
 
 ### Comparación
 
-<img width="338" height="741" alt="image" src="https://github.com/user-attachments/assets/58269d9c-b28f-4e65-a29f-0b2011426444" />
+<p align="center">
+  <img width="338" height="741" alt="Comparación al 50% de opacidad" src="https://github.com/user-attachments/assets/58269d9c-b28f-4e65-a29f-0b2011426444" />
+</p>
